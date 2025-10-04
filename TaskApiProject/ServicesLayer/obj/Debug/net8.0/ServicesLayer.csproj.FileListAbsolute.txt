@@ -1,0 +1,17 @@
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\bin\Debug\net8.0\ServicesLayer.deps.json
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\bin\Debug\net8.0\ServicesLayer.dll
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\bin\Debug\net8.0\ServicesLayer.pdb
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\bin\Debug\net8.0\RepositoriesLayer.dll
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\bin\Debug\net8.0\RepositoriesLayer.pdb
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\obj\Debug\net8.0\ServicesLayer.csproj.AssemblyReference.cache
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\obj\Debug\net8.0\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\obj\Debug\net8.0\ServicesLayer.AssemblyInfoInputs.cache
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\obj\Debug\net8.0\ServicesLayer.AssemblyInfo.cs
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\obj\Debug\net8.0\ServicesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\obj\Debug\net8.0\Services.2D1E3DF1.Up2Date
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\obj\Debug\net8.0\ServicesLayer.dll
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\obj\Debug\net8.0\refint\ServicesLayer.dll
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\obj\Debug\net8.0\ServicesLayer.pdb
+C:\Users\Guirguis\source\repos\API_Route\TaskApiProject\ServicesLayer\obj\Debug\net8.0\ref\ServicesLayer.dll
