@@ -105,9 +105,9 @@ GET /api/contacts?search=John&pageNumber=1&pageSize=10&sortBy=NameAsc
 ```json
 POST /api/Account/register
 {
-  "firstName": "Ayman",
-  "lastName": "Twab",
-  "email": "aymantwab1@example.com",
+  "firstName": "guirguis",
+  "lastName": "hedia",
+  "email": "guirguis@example.com",
   "phoneNumber": "01254126987",
   "bithDate": "2025-10-03",
   "password": "Test123$"
@@ -131,7 +131,7 @@ POST /api/contacts
   "firstName": "Guirguis",
   "lastName": "ahmed",
   "phoneNumber": "01215954125",
-  "email": "israa@example.com",
+  "email": "ahmed@example.com",
   "birthdate": "2025-10-03T10:41:25.291Z"
 }
 ```
