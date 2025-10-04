@@ -128,11 +128,11 @@ POST /api/Account/login
 ```json
 POST /api/contacts
 {
-  "firstName": "John",
-  "lastName": "Doe",
-  "phoneNumber": "123456789",
-  "email": "john.doe@example.com",
-  "birthDate": "1995-05-10"
+  "firstName": "Guirguis",
+  "lastName": "ahmed",
+  "phoneNumber": "01215954125",
+  "email": "israa@example.com",
+  "birthdate": "2025-10-03T10:41:25.291Z"
 }
 ```
 
