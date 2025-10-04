@@ -71,7 +71,7 @@ Users can register, log in with JWT authentication, and manage their personal ad
 4. The API will be available at:
 
    ```
-   https://localhost:5001/api
+   https://localhost:7213/api
    ```
 
 ---
@@ -80,8 +80,8 @@ Users can register, log in with JWT authentication, and manage their personal ad
 
 ### Authentication
 
-* `POST /api/auth/register` → Register a new user
-* `POST /api/auth/login` → Login and get JWT token
+* `POST /api/Account/register` → Register a new user
+* `POST /api/Account/login` → Login and get JWT token
 
 ### Contacts
 
