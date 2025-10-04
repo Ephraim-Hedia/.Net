@@ -103,18 +103,20 @@ GET /api/contacts?search=John&pageNumber=1&pageSize=10&sortBy=NameAsc
 **Register**
 
 ```json
-POST /api/auth/register
+POST /api/Account/register
 {
-  "username": "testuser",
-  "email": "test@example.com",
-  "password": "P@ssw0rd"
-}
+  "firstName": "Ayman",
+  "lastName": "Twab",
+  "email": "aymantwab1@example.com",
+  "phoneNumber": "01254126987",
+  "bithDate": "2025-10-03",
+  "password": "Test123$"
 ```
 
 **Login**
 
 ```json
-POST /api/auth/login
+POST /api/Account/login
 {
   "email": "test@example.com",
   "password": "P@ssw0rd"
