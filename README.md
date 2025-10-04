@@ -1,7 +1,7 @@
 # TaskApiProject
 
 A simple **.NET Web API** project that provides **user authentication** and **contact management** features.
-Users can register, log in with JWT authentication, and manage their personal address book.
+Users can register, log in with JWT authentication, and manage their personal address book with advanced search, pagination, and sorting.
 
 ---
 
@@ -17,9 +17,14 @@ Users can register, log in with JWT authentication, and manage their personal ad
   * List all contacts
   * Get a contact by ID
   * Delete a contact
-* **Entity Framework Core** for database management
-* **ASP.NET Core Identity** for user accounts
-* **AutoMapper** for mapping DTOs to entities
+* **Advanced Contact Queries**
+
+  * **Pagination**: Retrieve results in pages for efficiency
+  * **Search**: Filter contacts by `firstName`, `lastName`, `phoneNumber`, or `email`
+  * **Sorting**:
+
+    * Default: by `CreatedAt` (newest first)
+    * Optional: `NameAsc` or `NameDesc`
 
 ---
 
@@ -47,8 +52,8 @@ Users can register, log in with JWT authentication, and manage their personal ad
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/TaskApiProject.git
-   cd TaskApiProject
+   git clone https://github.com/Ephraim-Hedia/.Net.git
+   cd .Net/TaskApiProject
    ```
 
 2. Update the database:
@@ -81,13 +86,19 @@ Users can register, log in with JWT authentication, and manage their personal ad
 ### Contacts
 
 * `POST /api/contacts` → Add a new contact
-* `GET /api/contacts` → Get all contacts for the logged-in user
+* `GET /api/contacts` → Get all contacts (with pagination, search, sorting)
 * `GET /api/contacts/{id}` → Get a single contact by ID
 * `DELETE /api/contacts/{id}` → Delete a contact
 
 ---
 
-## 📖 Example Request
+## 📖 Example Usage
+
+**Search + Pagination + Sorting**
+
+```
+GET /api/contacts?search=John&pageNumber=1&pageSize=10&sortBy=NameAsc
+```
 
 **Register**
 
